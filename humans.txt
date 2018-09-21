@@ -13,3 +13,8 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+
+#Copyright
+
+	Edits in humans.txt under branch3
