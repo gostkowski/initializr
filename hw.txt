@@ -1,5 +1,11 @@
 Header
 
+Edit 1 in branch1
+
 Body
 
+Edit 2 in branch 2
+
 Footer
+
+Edit 3 in branch 3
