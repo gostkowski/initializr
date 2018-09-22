@@ -24,3 +24,5 @@
 #Edits in huamns under master (compared to branch8
 
 #Rebase edit examples in human under master (compared to branch10)
+
+#Github edits remotely, before rebase remotely.
