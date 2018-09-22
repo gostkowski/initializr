@@ -22,7 +22,4 @@ Edits in hw udner branch5
 ---
 
 Edits in hw under branch6
-
----
-
 Edits in hw under master (compared to branch7)
