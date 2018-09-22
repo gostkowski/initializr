@@ -21,4 +21,6 @@
 
 #Edits in humans under master (compared to branch6)
 
-#Edits in huamns under master (comared to branch8)
+#Edits in huamns under master (compared to branch8
+
+#Rebase edit examples in human under master (compared to branch10)
