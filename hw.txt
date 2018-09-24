@@ -51,26 +51,4 @@ Edits in hw before stash branch
 ---
 Edits in hw after stash branch, in the branch
 
----
-Edits in hw "trying to figure how git stash save works, this is no. 2 change"
-
-
-
-***1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
