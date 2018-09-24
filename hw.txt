@@ -44,3 +44,10 @@ Local: edits in hw before remote rebase
 
 ---
 Edits in hw during stash 2
+
+---
+Edits in hw before stash branch
+
+---
+Edits in hw after stash branch, in the branch
+
