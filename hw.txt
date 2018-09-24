@@ -63,3 +63,9 @@ stash 2 ###
 ___
 stash 3 $$$
 
+---
+First change in v1.1
+
+---
+Changes in v2.0
+
