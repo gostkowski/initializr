@@ -1,3 +1,7 @@
+
+*** star in new branch
+
+
 Header
 
 Edit 1 in branch1
@@ -50,4 +54,11 @@ Edits in hw before stash branch
 
 ---
 Edits in hw after stash branch, in the branch
+
+
+
+
+
+
+
 
