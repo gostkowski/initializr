@@ -55,7 +55,6 @@ Edits in hw before stash branch
 ---
 Edits in hw after stash branch, in the branch
 
----
 stash 1 ***
 
 ---
@@ -64,5 +63,3 @@ stash 2 ###
 ___
 stash 3 $$$
 
----
-changes under master, for testing difftool
