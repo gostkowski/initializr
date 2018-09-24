@@ -55,6 +55,9 @@ Edits in hw before stash branch
 ---
 Edits in hw after stash branch, in the branch
 
+---
+Trying to use the difftool a bit, under newbranch
+
 
 
 
